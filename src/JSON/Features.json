@@ -1,0 +1,192 @@
+[
+  {
+    "id": "0",
+    "sliderImg": "https://www.telegraph.co.uk/content/dam/film/Room/roomroom-xlarge.jpg",
+    "articleUrl": "#",
+    "articleHeading": "Best Films 2017 Edition",
+    "slug": "best-films-2017",
+    "title": "Best Films 2017 Edition",
+    "headerImage": "https://i.ibb.co/7R1YLzN/best-Of-Header-Neon.jpg",
+    "noEntrys": 10,
+    "postedOn": "13/09/20",
+    "author": "Joe O'Brien",
+    "introduction": "We have been treated a truly terrific year of film, with a fantastic mix of blockbusters and indies.\n\n\nLorem ipsum  is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "list": [
+      {
+        "image": "https://i.ibb.co/51J4ZXv/simon-Main.jpg",
+        "quote": "Do you ever feel weird?",
+        "number": "10",
+        "title": "Love Simon",
+        "imageOwner": "20th Century Fox",
+        "body": "There's something that rings very true about Love Simon. Although we can't all specifically relate to being a gay teenager, it's easy to empathise with Simon as he progresses through the many ups and downs of High School. Well written characters and a likeable cast made this heartfelt dramedy into probably the best of its kind in 2018."
+      },
+      {
+        "number": "09",
+        "title": "Widows",
+        "image": "https://i.ibb.co/1qYX8Zc/widows-Main.jpg",
+        "quote": "You reap what you sow",
+        "imageOwner": "20th Century Fox",
+        "body": "Steve McQueen shows that he has filmmaking range with the relentless heist thriller, Widows. From the outset it's dark, exciting and complex. Viola Davis leads a stellar, mostly female cast who give their all for their meticulous director. As the twists come quick and fast, it's proper edge-of-your-seat stuff. Sorry Ocean's 8, but this is how you make a heist movie."
+      },
+      {
+        "number": "08",
+        "title": "A Star is Born",
+        "image": "https://i.ibb.co/qJxDV8f/starMain.jpg",
+        "quote": "All you gotta' do is trust me",
+        "imageOwner": "Warner Bros Pictures",
+        "body": "With universal acclaim from critics and audiences alike, there's no denying Bradley Cooper's version of a classic film is deserving of high praise. Having been largely unproven in a serious dramatic role, Lady Gaga puts the debate on her acting abilities to rest, giving an emotional performance that will be long remembered alongside the movie's original soundtrack."
+      },
+      {
+        "number": "07",
+        "title": "I-Tonya",
+        "image": "https://i.ibb.co/zs7LkqX/tonya-Main.jpg",
+        "quote": "We also judge on presentation",
+        "imageOwner": "Neon",
+        "body": "Regardless of necessity for pinpoint accuracy in a biopic, the main responsibility of a film like I-Tonya is to entertain, and it absolutely does. Margot Robbie gets her meatiest role to date with Harding, and she gives it socks, portraying a damaged, hilarious and uncompromising character. It's utterly shocking and hilarious in equal measures, and never boring."
+      },
+      {
+        "number": "06",
+        "title": "American Animals",
+        "image": "https://i.ibb.co/tH48Tns/animals-Main.jpg",
+        "quote": "How can I tell you if I'm in or I'm out without telling me the first thing about what I might be in or out of?",
+        "imageOwner": "The Orchard",
+        "body": "It's a mystery why American Animals didn't get a wider release, as its an even better heist film than Widows. A young, up-and-coming cast including Evan Peters and Barry Keoghan inject an incredible amount of energy into this unbelievably true story about college students who decide to commit grand theft. Director Bart Layton turns the anxiety up to 10 with some of the year's most intense scenes. It's a hell of a cinema experience."
+      },
+      {
+        "number": "05",
+        "title": "Avengers: Infinity War",
+        "image": "https://i.ibb.co/dD64L3w/avengers-Main.jpg",
+        "quote": "You're embarrassing me in front of the wizards ",
+        "imageOwner": "Walt Disney",
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Gravida dictum fusce ut placerat. At risus viverra adipiscing at in tellus integer.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Gravida dictum fusce ut placerat. "
+      },
+      {
+        "number": "04",
+        "title": "Sorry to Bother You",
+        "image": "https://i.ibb.co/2SkWY00/sorry-Main.jpg",
+        "quote": "Stict to the script",
+        "imageOwner": "Annapurna Pictures",
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Gravida dictum fusce ut placerat. At risus viverra adipiscing at in tellus integer. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Gravida dictum fusce ut placerat. At risus viverra adipiscing at in tellus integer."
+      },
+      {
+        "number": "03",
+        "title": "Hereditary",
+        "image": "https://i.ibb.co/BKNywZb/hereditary-Main.jpg",
+        "quote": "She isn't gone",
+        "imageOwner": "A24",
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Gravida dictum fusce ut placerat. At risus viverra adipiscing at in tellus integer."
+      },
+      {
+        "number": "02",
+        "title": "Mandy",
+        "image": "https://i.ibb.co/fvmPz4J/mandy-Main.jpg",
+        "quote": "You are a vicious snowflake",
+        "imageOwner": "RLJE Films",
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Gravida dictum fusce ut placerat. At risus viverra adipiscing at in tellus integer."
+      },
+      {
+        "number": "01",
+        "title": "BlackKKlansman",
+        "image": "https://i.ibb.co/T4HJ89L/black-Main.jpg",
+        "quote": " You undercover or something? You ask too many questions ",
+        "imageOwner": "Focus Features",
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Gravida dictum fusce ut placerat. At risus viverra adipiscing at in tellus integer."
+      }
+    ]
+  },
+  {
+    "id": "1",
+    "sliderImg": "https://pmcvariety.files.wordpress.com/2018/02/black-panther-11.jpg?w=1000&h=563&crop=1",
+    "articleUrl": "#",
+    "articleHeading": "Best Films 2018 Edition",
+    "title": "Best Films 2018 Edition",
+    "slug": "best-films-2018",
+    "headerImage": "https://i.ibb.co/7R1YLzN/best-Of-Header-Neon.jpg",
+    "noEntrys": 10,
+    "postedOn": "13/09/20",
+    "author": "Joe O'Brien",
+    "introduction": "We have been treated a truly terrific year of film, with a fantastic mix of blockbusters and indies.\n\n\nLorem ipsum  is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "list": [
+      {
+        "image": "https://i.ibb.co/51J4ZXv/simon-Main.jpg",
+        "quote": "Do you ever feel weird?",
+        "number": "10",
+        "title": "Love Simon",
+        "imageOwner": "20th Century Fox",
+        "body": "There's something that rings very true about Love Simon. Although we can't all specifically relate to being a gay teenager, it's easy to empathise with Simon as he progresses through the many ups and downs of High School. Well written characters and a likeable cast made this heartfelt dramedy into probably the best of its kind in 2018."
+      },
+      {
+        "number": "09",
+        "title": "Widows",
+        "image": "https://i.ibb.co/1qYX8Zc/widows-Main.jpg",
+        "quote": "You reap what you sow",
+        "imageOwner": "20th Century Fox",
+        "body": "Steve McQueen shows that he has filmmaking range with the relentless heist thriller, Widows. From the outset it's dark, exciting and complex. Viola Davis leads a stellar, mostly female cast who give their all for their meticulous director. As the twists come quick and fast, it's proper edge-of-your-seat stuff. Sorry Ocean's 8, but this is how you make a heist movie."
+      },
+      {
+        "number": "08",
+        "title": "A Star is Born",
+        "image": "https://i.ibb.co/qJxDV8f/starMain.jpg",
+        "quote": "All you gotta' do is trust me",
+        "imageOwner": "Warner Bros Pictures",
+        "body": "With universal acclaim from critics and audiences alike, there's no denying Bradley Cooper's version of a classic film is deserving of high praise. Having been largely unproven in a serious dramatic role, Lady Gaga puts the debate on her acting abilities to rest, giving an emotional performance that will be long remembered alongside the movie's original soundtrack."
+      },
+      {
+        "number": "07",
+        "title": "I-Tonya",
+        "image": "https://i.ibb.co/zs7LkqX/tonya-Main.jpg",
+        "quote": "We also judge on presentation",
+        "imageOwner": "Neon",
+        "body": "Regardless of necessity for pinpoint accuracy in a biopic, the main responsibility of a film like I-Tonya is to entertain, and it absolutely does. Margot Robbie gets her meatiest role to date with Harding, and she gives it socks, portraying a damaged, hilarious and uncompromising character. It's utterly shocking and hilarious in equal measures, and never boring."
+      },
+      {
+        "number": "06",
+        "title": "American Animals",
+        "image": "https://i.ibb.co/tH48Tns/animals-Main.jpg",
+        "quote": "How can I tell you if I'm in or I'm out without telling me the first thing about what I might be in or out of?",
+        "imageOwner": "The Orchard",
+        "body": "It's a mystery why American Animals didn't get a wider release, as its an even better heist film than Widows. A young, up-and-coming cast including Evan Peters and Barry Keoghan inject an incredible amount of energy into this unbelievably true story about college students who decide to commit grand theft. Director Bart Layton turns the anxiety up to 10 with some of the year's most intense scenes. It's a hell of a cinema experience."
+      },
+      {
+        "number": "05",
+        "title": "Avengers: Infinity War",
+        "image": "https://i.ibb.co/dD64L3w/avengers-Main.jpg",
+        "quote": "You're embarrassing me in front of the wizards ",
+        "imageOwner": "Walt Disney",
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Gravida dictum fusce ut placerat. At risus viverra adipiscing at in tellus integer.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Gravida dictum fusce ut placerat. "
+      },
+      {
+        "number": "04",
+        "title": "Sorry to Bother You",
+        "image": "https://i.ibb.co/2SkWY00/sorry-Main.jpg",
+        "quote": "Stict to the script",
+        "imageOwner": "Annapurna Pictures",
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Gravida dictum fusce ut placerat. At risus viverra adipiscing at in tellus integer. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Gravida dictum fusce ut placerat. At risus viverra adipiscing at in tellus integer."
+      },
+      {
+        "number": "03",
+        "title": "Hereditary",
+        "image": "https://i.ibb.co/BKNywZb/hereditary-Main.jpg",
+        "quote": "She isn't gone",
+        "imageOwner": "A24",
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Gravida dictum fusce ut placerat. At risus viverra adipiscing at in tellus integer."
+      },
+      {
+        "number": "02",
+        "title": "Mandy",
+        "image": "https://i.ibb.co/fvmPz4J/mandy-Main.jpg",
+        "quote": "You are a vicious snowflake",
+        "imageOwner": "RLJE Films",
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Gravida dictum fusce ut placerat. At risus viverra adipiscing at in tellus integer."
+      },
+      {
+        "number": "01",
+        "title": "BlackKKlansman",
+        "image": "https://i.ibb.co/T4HJ89L/black-Main.jpg",
+        "quote": " You undercover or something? You ask too many questions ",
+        "imageOwner": "Focus Features",
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Gravida dictum fusce ut placerat. At risus viverra adipiscing at in tellus integer."
+      }
+    ]
+  }
+]

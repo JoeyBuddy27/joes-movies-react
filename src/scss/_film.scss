@@ -1,0 +1,14 @@
+.film {
+  padding: 1rem;
+
+  h1 {
+    border-bottom: 2px solid $lightPink;
+    margin-bottom: 1rem;
+  }
+
+  &__container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 1rem;
+  }
+}

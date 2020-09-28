@@ -1,0 +1,66 @@
+@import "./config";
+
+.slider {
+  padding: 1rem;
+  &__heading {
+    border-bottom: 5px solid $purple;
+  }
+
+  &__image {
+    padding-top: 1rem;
+    width: 100% !important;
+    object-fit: cover !important;
+    height: 50vh !important;
+    vertical-align: middle;
+    object-position: center top;
+    border-radius: 10px 10px 10px 10px;
+    @include transition-ease;
+    opacity: 0.95;
+
+    &:hover {
+      opacity: 1;
+    }
+    &__container {
+      position: relative;
+    }
+  }
+
+  &__title {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    bottom: 0;
+    right: 0px;
+    width: 100%;
+    height: 40%;
+    background: linear-gradient(to top, rgba($purple, 0.4), rgba(white, 0));
+    padding: 0.2rem;
+    text-transform: uppercase;
+    color: whitesmoke;
+    font-weight: 500;
+    font-size: 1.8rem;
+    font-family: "Poppins", sans-serif;
+    border-radius: 0 0 10px 10px;
+    // border-radius: 0px 0px 40px 40px;
+
+    > h1 {
+      // border-bottom: 0.5px solid white;
+      // border-top: 1px solid white;
+      // padding: 0.5rem;
+      box-shadow: 0 0.5px 0px white;
+      padding: 0.5rem;
+      margin-top: 10%;
+      font-size: 1.5rem;
+      @include transition-ease;
+      background: rgba($black, 0.4);
+
+      &:hover {
+        cursor: pointer;
+        background: rgba($black, 0.9);
+        color: $purple;
+      }
+    }
+  }
+}

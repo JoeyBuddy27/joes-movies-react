@@ -1,0 +1,40 @@
+@import "./header";
+@import "./footer";
+@import "./config";
+@import "./responsive";
+@import "./slider";
+@import "./home";
+@import "./latestHome";
+@import "./latestPost";
+@import "./filmReviewPost";
+@import "./film";
+@import "./tv";
+@import "./featurePost";
+@import "./featureItem";
+
+body {
+  color: $blackText !important;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.app__body {
+  max-width: 1200px;
+  margin: 0px auto;
+  flex: 1;
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  max-width: 100vw;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}

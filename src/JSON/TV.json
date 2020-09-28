@@ -1,0 +1,34 @@
+[
+  {
+    "id": "0",
+    "image": "https://img.rasset.ie/0010c4fb-1600.jpg",
+    "articleUrl": "",
+    "title": "Hardy Bucks Season 3",
+    "rating": 3,
+    "slug": "hardy-bucks",
+    "reviewBody": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+    "quote": "Mad as a bag of spiders!",
+    "author": "Joe O'Brien",
+    "postedOn": "19/09/20",
+    "verdictHeader": "Good",
+    "verdictText": "Cringe Irish comedy at its finest!",
+    "highlightColor": "Blue",
+    "teaser": "The boys are back!"
+  },
+  {
+    "id": "1",
+    "image": "https://www.indiewire.com/wp-content/uploads/2019/02/After-Life-Ricky-Gervais-Kerry-Godliman-Netflix.jpg?w=780",
+    "articleUrl": "#",
+    "title": "After Life Season 1",
+    "rating": 4,
+    "slug": "after-life",
+    "reviewBody": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+    "quote": "We're not just here for us, we're here for others",
+    "author": "Joe O'Brien",
+    "postedOn": "16/09/20",
+    "verdictHeader": "Great",
+    "verdictText": "Ricky Gervais back on fine form with a heartfelt dramedy",
+    "highlightColor": "Blue",
+    "teaser": "Ricky's new comedy is bigger on heart than on laughs."
+  }
+]

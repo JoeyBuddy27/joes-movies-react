@@ -1,0 +1,66 @@
+@import "./config";
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  background: $black;
+  height: fit-content;
+  padding: 0.5rem;
+  max-width: 100vw;
+  align-items: center;
+
+  &__logo {
+    height: 70px;
+    @include transition-ease;
+
+    &:hover {
+      transform: scale(1.02);
+    }
+  }
+
+  &__nav {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+
+    &__item {
+      a {
+        color: white;
+        text-decoration: none;
+        margin: 0.5rem;
+        text-transform: uppercase;
+        @include transition-ease;
+        padding: 0.5rem;
+      }
+
+      &__home {
+        a:hover,
+        .active {
+          @include transition-ease;
+          @include hoverBackground(transparent, grey);
+        }
+      }
+
+      &__tv {
+        a:hover,
+        .active {
+          @include hoverBackground(transparent, $blue);
+        }
+      }
+
+      &__film {
+        a:hover,
+        .active {
+          @include hoverBackground(transparent, $darkPink);
+        }
+      }
+
+      &__features {
+        a:hover,
+        .active {
+          @include hoverBackground(transparent, $purple);
+        }
+      }
+    }
+  }
+}

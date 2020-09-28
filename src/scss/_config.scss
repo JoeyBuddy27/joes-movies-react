@@ -1,0 +1,42 @@
+$darkPink: #a2076c;
+$lightPink: #df01c7;
+$lightestPink: #f501ec;
+$purple: #74178a;
+$black: #0c0c0c;
+$blue: #1c3a9a;
+$blackText: #212529;
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+@mixin hoverBackground($bgColor, $color) {
+  background-color: $bgColor;
+  color: $color;
+}
+
+@mixin transition-ease {
+  transition: all 0.3s ease-in-out;
+}
+
+// set up media queries
+
+@mixin media-md {
+  @media screen and (min-width: 768px) {
+    @content;
+  }
+}
+
+@mixin media-lg {
+  @media screen and (min-width: 1024px) {
+    @content;
+  }
+}
+
+@mixin media-xl {
+  @media screen and (min-width: 1600px) {
+    @content;
+  }
+}

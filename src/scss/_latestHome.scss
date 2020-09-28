@@ -1,0 +1,77 @@
+@import "./config";
+
+.latestHome {
+  padding: 1rem;
+
+  &__film {
+    &__title {
+      border-bottom: 3px solid $lightPink;
+    }
+    &__all {
+      background: rgba($darkPink, 0.8);
+      border: none;
+      padding: 0.3rem;
+      color: white;
+      border-radius: 0 0 10px 0px;
+      opacity: 0.95;
+      @include transition-ease;
+      cursor: pointer;
+
+      &:hover {
+        background: rgba($darkPink, 1);
+      }
+    }
+    &__container {
+      margin-top: 1rem;
+      display: grid;
+      grid-template-columns: 1fr;
+      grid-gap: 0.2rem;
+    }
+  }
+  &__tv {
+    &__title {
+      border-bottom: 3px solid $blue !important;
+      margin-bottom: 1rem;
+    }
+
+    &__component img:nth-of-type(1) {
+      @include transition-ease;
+      border: 2px solid transparent;
+
+      &:hover {
+        border: 2px solid $blue;
+      }
+    }
+
+    &__component h4 {
+      color: $blue !important;
+    }
+    &__all {
+      background: rgba($blue, 0.8);
+      border: none;
+      padding: 0.3rem;
+      color: white;
+      border-radius: 0 0 10px 0px;
+      opacity: 0.95;
+      @include transition-ease;
+      cursor: pointer;
+
+      &:hover {
+        background: rgba($blue, 1);
+      }
+
+      a {
+        text-decoration: none;
+        color: white;
+
+        &:hover {
+          color: pink;
+        }
+      }
+    }
+  }
+}
+
+h1 {
+  font-size: 1.5rem;
+}

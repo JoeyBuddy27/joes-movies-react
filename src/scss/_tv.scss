@@ -1,0 +1,41 @@
+@import "./config";
+
+.tv {
+  padding: 1rem;
+
+  h1 {
+    color: $blue !important;
+    border-bottom: 2px solid $blue;
+    margin-bottom: 1rem;
+  }
+
+  &__container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 1rem;
+  }
+  &__post {
+    h4 {
+      color: $blue !important;
+      opacity: 0.9;
+      @include transition-ease;
+
+      &:hover {
+        opacity: 1;
+      }
+    }
+
+    .latestPost__image {
+      border: 3px solid transparent;
+      @include transition-ease;
+
+      &:hover {
+        border: 3px solid $blue;
+      }
+    }
+  }
+}
+
+.tvReview {
+  padding: 1rem;
+}

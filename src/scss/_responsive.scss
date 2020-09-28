@@ -1,0 +1,96 @@
+@include media-md {
+  .header__nav {
+    flex-direction: row;
+  }
+  .footer__grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+  .footer__copyright {
+    grid-column: 1/4;
+  }
+
+  .home__main {
+    flex-direction: row !important;
+
+    &__left {
+      flex: 0.7;
+    }
+  }
+  .filmReviewPost__details__right {
+  }
+  .filmReviewPost__verdict__text {
+    width: 40% !important;
+  }
+
+  .featureItem:nth-child(even) {
+    section:nth-child(1) {
+      //select the top info (eg: '09 WIDOWS')
+      order: 2;
+      border-right: 0.4rem solid $purple;
+      border-left: none;
+    }
+  }
+
+  .latestHome {
+    &__tv__container,
+    &__film__container {
+      grid-template-columns: repeat(4, 1fr) !important;
+    }
+
+    &__film__component:nth-of-type(5) {
+      grid-column: 1/3;
+    }
+    &__film__component:nth-of-type(6) {
+      grid-column: 3/6;
+    }
+  }
+
+  .featureItem {
+    &__top {
+      flex-direction: row !important;
+    }
+    &__imageContainer {
+      flex: 0.5;
+    }
+    &__info {
+      flex: 0.5;
+    }
+  }
+
+  .header__nav__item {
+    &__home {
+      a:hover,
+      .active {
+        @include transition-ease;
+        @include hoverBackground(white, $black);
+      }
+    }
+
+    &__tv {
+      a:hover,
+      .active {
+        @include hoverBackground($blue, white);
+      }
+    }
+
+    &__film {
+      a:hover,
+      .active {
+        @include hoverBackground($darkPink, white);
+      }
+    }
+
+    &__features {
+      a:hover,
+      .active {
+        @include hoverBackground($purple, white);
+      }
+    }
+  }
+}
+
+@include media-lg {
+}
+
+@include media-xl {
+}

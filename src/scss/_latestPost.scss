@@ -1,0 +1,42 @@
+@import "./config";
+
+.latestPost {
+  &__title {
+    color: $lightPink !important;
+    text-decoration: none;
+  }
+
+  &__container {
+    position: relative;
+  }
+
+  &__image {
+    width: 100%;
+    border-radius: 0 0 10px 10px;
+    @include transition-ease;
+    object-fit: contain;
+    border: 2px solid transparent;
+    z-index: 2;
+
+    &:hover {
+      border: 2px solid $lightPink;
+    }
+  }
+
+  &__teaser {
+    font-size: 0.8rem;
+    margin-bottom: 1rem;
+  }
+
+  &__rating {
+    position: absolute;
+    bottom: 5px;
+    left: 0px;
+    width: 50%;
+    background: rgba(white, 1);
+    border-radius: 0 0 0 10px;
+  }
+  &__postedOn {
+    color: $blackText !important;
+  }
+}
